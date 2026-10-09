@@ -1,0 +1,11 @@
+# the built binary and any templates generated in the working tree
+/snif
+snif-*.png
+snif-*.yaml
+!pkg/snif/testdata/snif-*.yaml
+/daily
+
+# editor leftovers
+\#*\#
+.#*
+*~

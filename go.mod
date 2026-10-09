@@ -1,0 +1,30 @@
+module github.com/jdlugosz963/snif
+
+go 1.24.13
+
+require (
+	github.com/jdlugosz963/snorg v0.4.1
+	github.com/urfave/cli/v3 v3.10.1
+	golang.org/x/image v0.23.0
+)
+
+require (
+	github.com/alecthomas/participle/v2 v2.1.4 // indirect
+	github.com/epiclabs-io/diff3 v0.0.0-20260520111523-3b1669897fb1 // indirect
+	github.com/flosch/pongo2/v6 v6.1.0 // indirect
+	github.com/gotranspile/cxgo v0.5.2 // indirect
+	github.com/gotranspile/gotrace v0.0.0-20230726133510-8c9665a39b09 // indirect
+	github.com/jdlugosz963/sntool v1.3.1 // indirect
+	github.com/njchilds90/go-diffpatch v1.0.0 // indirect
+	github.com/openai/openai-go v1.12.0 // indirect
+	github.com/sourcegraph/go-diff v0.8.0 // indirect
+	github.com/srwiley/oksvg v0.0.0-20221011165216-be6e8873101c // indirect
+	github.com/srwiley/rasterx v0.0.0-20220730225603-2ab79fcdd4ef // indirect
+	github.com/tidwall/gjson v1.14.4 // indirect
+	github.com/tidwall/match v1.1.1 // indirect
+	github.com/tidwall/pretty v1.2.1 // indirect
+	github.com/tidwall/sjson v1.2.5 // indirect
+	golang.org/x/net v0.34.0 // indirect
+	golang.org/x/text v0.21.0 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
+)
